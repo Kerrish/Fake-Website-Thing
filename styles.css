@@ -1,0 +1,32 @@
+body {
+    background-color: #091426;
+    color: white;
+    font-family: 'Secular One', cursive;
+}
+
+.One {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.FirstImg {
+    width: 700px;
+    border: 3px solid white;
+}
+
+.Title {
+    display: flex;
+    justify-content: center;
+    border: 10px solid white;
+    background-color: #021d45;
+
+}
+
+.Links {
+    display: flex;
+    justify-content:space-around;
+    padding:5px;
+    margin:5px;
+}
